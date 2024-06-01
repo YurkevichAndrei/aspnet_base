@@ -45,4 +45,10 @@ body {
 li:last-child
 {
   margin-left: auto;
+  justify-self: end;
+}
+
+.nav-link
+{
+  text-align: right !important;
 }
